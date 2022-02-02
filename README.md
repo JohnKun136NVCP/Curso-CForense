@@ -22,10 +22,10 @@ Hola a todos y todas al curso de *Cómputo Forense* del semestre 2023-1. En este
 |Proyecto|70%|
 
 
-### Contacto
+### Contacto :mailbox_with_no_mail: 
 
 <p>
-  <img src="Img/email.png" align="right"  width="150" height="150" />
+  <img src="Img/email.png" align="right"  width="150" height="150" /> 
 </p>
 
 **Juan A.:** juanah.proteco@gmail.com :email:
