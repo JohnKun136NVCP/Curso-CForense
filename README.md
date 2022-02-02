@@ -22,7 +22,7 @@ Hola a todos y todas al curso de *Cómputo Forense* del semestre 2023-1. En este
 |Proyecto|70%|
 
 
-### Contacto :mailbox_with_no_mail: 
+### Contacto :mailbox_closed: :mailbox_with_no_mail: :mailbox_with_mail: :mailbox:
 
 <p>
   <img src="Img/email.png" align="right"  width="150" height="150" /> 
