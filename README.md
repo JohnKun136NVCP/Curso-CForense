@@ -1,5 +1,5 @@
 <p>
-  <img src="Img/huella.png" align="right"  width="60" height="60" />
+  <img src="Img/huella.png" align="right"  width="80" height="80" />
 </p>
 
 # Cómputo Forense 🔐🔎
@@ -15,6 +15,10 @@ Hola a todos y todas al curso de *Cómputo Forense* del semestre 2023-1. En este
 
 
 ### Contacto
+
+<p>
+  <img src="Img/email.png" align="right"  width="150" height="150" />
+</p>
 
 **Juan A.:** juanah.proteco@gmail.com
 
