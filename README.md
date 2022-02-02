@@ -14,6 +14,14 @@ Hola a todos y todas al curso de *Cómputo Forense* del semestre 2023-1. En este
 
 
 
+### Evaluación. 🧾
+
+|Tipo  |%|
+|------|---|
+|Tareas|30%|
+|Proyecto|70%|
+
+
 ### Contacto
 
 <p>
