@@ -17,3 +17,4 @@ Hola a todos y todas al curso de *Cómputo Forense* del semestre 2023-1. En este
 ### Contacto
 
 **Juan A.:** juanah.proteco@gmail.com
+**Athenas G.:** athenasgm.proteco@gmail.com
