@@ -28,8 +28,8 @@ Hola a todos y todas al curso de *Cómputo Forense* del semestre 2023-1. En este
   <img src="Img/email.png" align="right"  width="150" height="150" />
 </p>
 
-**Juan A.:** juanah.proteco@gmail.com
+**Juan A.:** juanah.proteco@gmail.com :email:
 
-**Athenas G.:** athenasgm.proteco@gmail.com
+**Athenas G.:** athenasgm.proteco@gmail.com :email:
 
-**Brian B.:** brianbp.proteco@gmail.com
+**Brian B.:** brianbp.proteco@gmail.com :email:
