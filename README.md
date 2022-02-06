@@ -18,7 +18,8 @@ Hola a todos y todas al curso de *Cómputo Forense* del semestre 2023-1. En este
 
 |Tipo  |%|
 |------|---|
-|Tareas|30%|
+|Examen|10%|
+|Tareas|20%|
 |Proyecto|70%|
 
 
