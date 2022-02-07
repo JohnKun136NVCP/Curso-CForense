@@ -1,5 +1,3 @@
-from PIL import Image #Manejo de imagenes.
-from PIL.ExifTags import TAGS #Para los metadatos
 import sys
 import Filecheck
 

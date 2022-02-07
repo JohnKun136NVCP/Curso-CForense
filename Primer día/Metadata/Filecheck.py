@@ -2,7 +2,8 @@
 # coding: utf-8
 
 import sys
-
+from PIL import Image #Manejo de imagenes.
+from PIL.ExifTags import TAGS #Para los metadatos
 
 
 def Metadata(file,im):
@@ -17,7 +18,12 @@ def Metadata(file,im):
     f.write("\n")
     f.close()
     return file
-        
+
+
+def CFile(Fname):
+    file = open(Fname,'a')
+    file.close()
+    return file
 
 def CheckFile (NameFile):#Verifica el archivo.
     try:
@@ -27,11 +33,13 @@ def CheckFile (NameFile):#Verifica el archivo.
     except FileNotFoundError: #Si no existe llama a la función CFile()
         print('Your file does not exist')
         print('But we have created ones as {}'.format(NameFile))
+        return CFile(NameFile)
+        
 def CheckImage(NameImag): #Verifica si la imagen existe
     try:
         img = Image.open(NameImag)
     except:
-        print("No se encontró la imagen")
+        print("Did not found the image...")
         sys.exit(1)
 
 
