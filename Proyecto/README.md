@@ -17,3 +17,19 @@ Situación, imaginemos que en algún momento tiene que analizar en una computado
 4. GitHub.
 
 ## Instrucciones. 🧩💾✉️📇
+1.En la imagen proporcionada se ha ocultado un archivo de texto  :page_facing_up:, para obtenerlo debeŕas instalar una herramienta de esteganografía llamada steghide, una vez que cuentes con dicho programa deberás usar el siguiente comando:
+
+
+            steghide extract -sf doki_doki.jpeg
+
+
+Posteriormente ingresa el salvoconducto solicitado (proteco).
+
+Listo! :heavy_check_mark: ya tienes tu archivo oculto. :sunglasses:
+
+
+2.Una vez que obtengas el archivo de texto plano te podrás dar cuenta que este se encuentra cifrado :fearful: , por ello deberás hacer lo siguiente:
+
+ * Haz un programa que descifre el mensaje de binario a ASCII (ver tabla). 
+ * Pasa el mensaje obtenido a base64.
+ * Finalmente convierte el mensaje de base64 a lenguaje natural.
