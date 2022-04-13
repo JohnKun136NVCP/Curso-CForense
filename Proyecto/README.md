@@ -35,3 +35,6 @@ Listo! ✔️ ya tienes tu archivo oculto. 😎
  * Finalmente convierte el mensaje de base64 a lenguaje natural. Es decir, decodificar el lenguaje Base64 a lenguaje humano.
 
 3. Una vez que descifres el mensaje, sube tu programa y el resultado en un archivo txt a este repositorio.
+
+## Para punto extra sobre calificación.
+ * Haga un script en bash que permita leer la imagen e implementar el código que utilices para descifrar el archivo, este tiene que dar como salida el mensaje oculto junto con el archivo. 
