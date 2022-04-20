@@ -9,6 +9,6 @@ Hacer las tareas correspondientes que se muestran aquí esto forma el 10% de la 
 Investigar.
 * ¿Qué es una función hash?
 * ¿Para qué sirven?
-*  Descrbir 3 usos. 
+*  Describir 3 usos. 
 
 Pro Tip💡: Te puedes apoyar de este [video](https://youtu.be/FRBIc0udwv0).
