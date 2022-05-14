@@ -4,6 +4,8 @@ Hacer las tareas correspondientes que se muestran aquí esto forma el 10% de la 
 
 
 # Segunda tarea.
+Describir.
+* Del software de forense :computer: 🔓 (visto en clase) menciona una breve descripción ✏️ de los 3 que más llamaron tu atención.
 
 # Tercera Tarea.📁📎
 Investigar.
